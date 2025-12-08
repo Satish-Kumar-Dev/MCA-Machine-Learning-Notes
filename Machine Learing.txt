@@ -1,0 +1,23 @@
+Machine Learning Notes:
+	08/12/2025:
+			SKLEARN , mplotlib, Pandas and Numpy --> Python Libraries
+			Linear Equation : It is like having mutual relationship between the dependent and independent variables
+				Example: Price of a product increases with the increase in its quantity
+			Linear Model --> y = mx+b Coefficient(m), Area(x), Intercept(b)
+			Dependent Variable = y , Independent Variable = x;
+			Example : If Linear Equation is :
+				y(price) = m1*(area) + m2*(Bedrooms) + m3*(age) + b;
+				Where y is a dependent variable, area, Bedrooms and age are independent variables, b is a intercept and m1, m2, m3 are coefficietnts
+				
+				
+				
+		Topics:- Data Processing with Missing null values and Linear Regression using multiple variables,Gradient Decent and Cost Function:
+			Gradient Decent is an alogorithm that finds best fit line for given training dataset
+			Need to add calculus of derivatives and partial derivative for slope and it's examples like derivative of x^2 is 2x
+			To learn Calculus youtube channel 3 Blue 1 brown channel or website is mathisfun
+		Topics:- Save a trained model using Pickle and sklearn joblib
+		Topic:- One hot encoding using dummy variables using pandas library and sklearn.processing -->  One hot encoding in python, Dummy variable trap
+			In linear regression it automatically drops the dummy variable but it is better to drop manually for a good practice
+		Topic:- Split Available Dataset into training and test using using sklearn model_selection.train_test_split
+		Topic:- Logistic Regression, Sigmoid  or Logit Function with linear classification, Multiclassification
+				
