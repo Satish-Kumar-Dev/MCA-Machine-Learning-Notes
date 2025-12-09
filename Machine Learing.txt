@@ -20,4 +20,32 @@ Machine Learning Notes:
 			In linear regression it automatically drops the dummy variable but it is better to drop manually for a good practice
 		Topic:- Split Available Dataset into training and test using using sklearn model_selection.train_test_split
 		Topic:- Logistic Regression, Sigmoid  or Logit Function with linear classification, Multiclassification
+	
+	09/12/2025:
+		Topics: 
+			Decision Tree --> Entropy, Gini Impurity, Required Python Libraries --> Label Encoder form SKLEARN.Preprocessing --> Label Encoder is used to
+			Label columns interms of numbers instead of text because We can process only numbers.
+			Tree from sklearn --> tree.DecisionTreeClassifier() method .
+			Suuport Vector Machine --> It is based on Iris flower which has petal (width and height) and sepal (width and height)
+			Setosa, verticolar and Virginica--> Menaning Required
+			Margin --> 
+			Gamma Regularisations: High Gamma and Low Gamma : Parameter "C" is used to denote High or low regularisation
+				z = x^2 + y^2 This Tranformation is called Kernel
+				Matplotlib: It is used for data Visulaisation imported from pyplot
+				Importing SVC form sklearn.svm
+			Random Forest Algorithm: 
+				How to build a multiple Decision Trees: Take a Dataset and split them intlo batch of dataset then build a decision tree for each one of them and 
+					Take a majority vote out of them then take a decision. This is what behind the basic thing of a Random Forest Algorithm
+				sklearn.ensemble --> Explain about this
+				confusion matrix --> explain about this
+			Cross Validation : Evaluating Model Performance 
+				K fold cross validation and Stratified KFold --> Explain about these
+				cross_val_score() method in sklearn --> Explain about this
+			----End of Supervised Learning----
+			
+			
+			Unsupervised Learning: This learning comes when we don't the target or target variable we need to find in the give dataset
+				K- Means Clustering Algorithm: 
+					Elbow method : Explain about this which is used to select the correct K value
+					MinMaxScaler from sklearn.preprocessing : Explain about this
 				
