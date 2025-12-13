@@ -69,7 +69,7 @@ Machine Learning Notes:
 		Explain Wavelet Transform using python
 		Explain about data featuring
 		Explain about outlier detection
-		Explain how can Z Score and standard deviation helps to for outlier detection and removal
+		Explain what and how can Z Score and standard deviation helps to for outlier detection and removal
 		What is Bell Curve and how can we draw it using a python
 		
 		Explain what is IQR and how can IQR helps to for outlier detection and removal
