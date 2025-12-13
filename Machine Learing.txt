@@ -48,4 +48,28 @@ Machine Learning Notes:
 				K- Means Clustering Algorithm: 
 					Elbow method : Explain about this which is used to select the correct K value
 					MinMaxScaler from sklearn.preprocessing : Explain about this
-				
+	10/12/2025:
+		Topics: Naive Bayes explain about this clearly, Libraries for this in python
+			Bernoulli, Multinomial and Gaussian Naive Bayes --> Explain about these three
+			Hyper Parameter Tuning(Grid SearchCV) - Explain in not less than 500-1000 words adn also mention why it is better to use this?
+	13/12/2025:
+		What is a kernel? --> I need clear explanation about kernel and mean test score...
+		computation cosst in Grid SearchCV and what is randomised search CV explain
+		How to choose the best model for the best performance
+		what is an overfit issue?
+		How L1 and L2 Regularisations help and what are they?
+		Explain Lasso Regression?
+		Explain K nearest neighnour in almost minimum of 1000 words?
+		Explain about classification report?
+		what is Principle Component analysis?
+		What is Bais and variance explain them clearly and later compare them
+		Explain Ensemble Learning - Bagging and Boosting
+		Bootstrap Aggregation - Explain
+		Explain about immage classification using python library - openCV for data cleaninig
+		Explain Wavelet Transform using python
+		Explain about data featuring
+		Explain about outlier detection
+		Explain how can Z Score and standard deviation helps to for outlier detection and removal
+		What is Bell Curve and how can we draw it using a python
+		
+		Explain what is IQR and how can IQR helps to for outlier detection and removal
